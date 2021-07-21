@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglassantanna
 - 👀 I’m interested in getting better as a junior developer..
-- 🌱 I’m currently learning C# and its features...
+- 🌱 I’m currently learning dotnet 5, angular 12, EF 5, Microsoft Power Platform and Azure services..
 - 💞️ I’m looking to collaborate on open source projects..
 - 📫 You might reach me trhough my LinkedIn https://www.linkedin.com/in/douglas-sant-anna-32974091/..
 
