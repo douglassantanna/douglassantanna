@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglassantanna
 - 👀 I’m interested in technologies such as ASP.NET, AngularJS and Cloud Computing..
-- 🌱 I’m currently learning dotnet 5, angular 12, EF 5, Microsoft Power Platform and Azure services..
+- 🌱 I’m currently working as junior fullstack developer to CloudData.com.vc..
 - 💞️ I’m looking to collaborate on open source projects..
 - 📫 You might reach me trhough my LinkedIn https://www.linkedin.com/in/douglas-sant-anna-32974091/..
 
