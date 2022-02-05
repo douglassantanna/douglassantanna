@@ -4,14 +4,11 @@
 - 💞️ I’m looking to collaborate on open source projects..
 - 📫 You might reach me trhough my LinkedIn https://www.linkedin.com/in/douglas-sant-anna-32974091/.. -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglassantanna&color=brightgreen" alt="Profile views" /> </p>
-<br>
-## ⚙️ &nbsp;;GitHub Analytics
-<!-- <br> -->
-<!-- <div align="center"> -->
+<div align="center">
   <a href="https://github.com/douglassantanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassantanna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassantanna&layout=compact&langs_count=7&theme=dark"/>
-<!-- </div> -->
+</div>
  
 ## 🛠 &nbsp;Tech Stack
 
