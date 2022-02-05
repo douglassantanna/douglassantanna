@@ -34,7 +34,7 @@
  <img align="center" src="https://img.shields.io/badge/-santanna_doug-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://linkedin.com/in/douglas-sant-anna-32974091" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-douglas-sant-anna-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-douglas-santanna-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:douglbb1@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-douglbb1@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
